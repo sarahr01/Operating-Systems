@@ -1,1 +1,4 @@
 # Operating-Systems
+Operating System Function #1: Starting Devices
+Operating systems use the start up process to start a computer or mobile device. The startup process starts with an electrical current to the circuitry in the device. It ends with with the operating system in the memory taking control of the device and loading the system configuration information. Once it's complete, the computer or device is ready to be used. 
+
