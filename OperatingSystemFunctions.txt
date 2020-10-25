@@ -5,3 +5,5 @@ Operating systems use the start up process to start a computer or mobile device.
 Operating System Function #2: Providing a User Interface (UI)
 The operating system provides the user interface for the computer. The user interface controls how you enter data and instructions and how information is displayed on the screen. The two types of UI are Graphical User Interface (GUI) and Command-line interface. GUI allows you to interact with menus and visual images by touching, tapping, pointing, or clicking buttons/objects to issue commands. Command-line interface allows you to type commands represented by short words or abbreviations and is used to configure devices and manage system resources. 
 
+Operating System Function #3: Coordinating Tasks
+The operating system determines the order tasks are processed. These tasks could include receiving data from an input device or processing instructions. When printing multiple documents, the OS places the documents in a queue in a buffer, which is basically a line of documents (queue) in a segment of memory or storage where they are waiting to be transfered from an input device to an output device (buffer).
